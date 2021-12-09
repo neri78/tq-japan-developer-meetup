@@ -3,11 +3,6 @@
   "description": "Twilioに関するトリビアに答えて君もAPI戦士（非公式）を目指そう！",
   "questTitle": "Twilio Trivia World",
   "questDescription": "Twilio Trivia World",
-  "navMap": {
-    "x": 10,
-    "y": 80,
-    "sprite": "nav_map/example_planet.png"
-  },
   "is_mission": true,
   "priority": 1,
   "backgroundMusic": "hackertheme_104771b",

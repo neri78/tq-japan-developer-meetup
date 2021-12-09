@@ -5,10 +5,6 @@
   "engines": {
     "twilioquest": "3.1.44"
   },
-  "dependencies": {
-    "path": "^0.12.7",
-    "ramda": "^0.27.1"
-  },
   "devDependencies": {
     "textlint": "^12.1.0",
     "textlint-rule-preset-ja-spacing": "^2.2.0",
