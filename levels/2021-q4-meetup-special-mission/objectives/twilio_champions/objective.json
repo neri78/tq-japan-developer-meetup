@@ -1,0 +1,15 @@
+{
+  "title": "Twilioコミュニティへの貢献",
+  "description": "情報発信やミートアップ開催など、Twilioコミュニティに貢献する開発者を表彰する制度がTwilioに存在します。このプログラム名をお答えください。",
+  "validation_fields": [
+    {
+      "name": "answer1",
+      "type": "text",
+      "placeholder": "プログラム名を英語で記入してください",
+      "label": "Twilio開発者の表彰制度とは？"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

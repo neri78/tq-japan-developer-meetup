@@ -1,0 +1,15 @@
+{
+  "title": "ベストのブランドは？",
+  "description": "CEOのジェフ・ローソンのベストのブランドとは？",
+  "validation_fields": [
+    {
+      "name": "brand",
+      "type": "text",
+      "placeholder": "ブランド名",
+      "label": "ブランド名をカタカナで記入してください"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

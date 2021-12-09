@@ -1,0 +1,15 @@
+{
+  "title": "名前の由来は...?",
+  "description": "Twilioの由来、ご存知ですか？ <strong>Objective</stron>タブに選択肢が記載されています。A、B、C、Dでお答えください。",
+  "validation_fields": [
+    {
+      "name": "answer1",
+      "type": "text",
+      "placeholder": "A、B、C、Dのどちらかを入力してください",
+      "label": "Twilioの由来:"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

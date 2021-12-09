@@ -1,0 +1,14 @@
+{
+  "title": "始まりの日",
+  "description": "Twilioが誕生した日はいつでしょうか？",
+  "validation_fields": [
+    {
+      "name": "birthday",
+      "type": "date",
+      "label": "Twilioの誕生日を入力してください:"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

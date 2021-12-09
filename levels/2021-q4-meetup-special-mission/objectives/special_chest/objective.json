@@ -1,0 +1,10 @@
+{
+  "title": "隠された財宝",
+  "description": "隠された宝箱をよく探し当てました!報酬をゲットしてください。",
+  "validation_fields": [
+   
+  ],
+  "rewards": {
+    "xp": 2021
+  }
+}

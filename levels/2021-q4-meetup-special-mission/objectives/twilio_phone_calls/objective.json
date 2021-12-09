@@ -1,0 +1,15 @@
+{
+  "title": "2021年、Twilioが捌いた通話数は？",
+  "description": "Twilioは全世界をカバーする電話回線インフラ「スーパーネットワーク」を提供しています。2021年にTwilioを介して発信・受信された通話数は◯億にものぼります。この◯に入る数字をお答えください。",
+  "validation_fields": [
+    {
+      "name": "answer1",
+      "type": "number",
+      "placeholder": "通話数を入力してください",
+      "label": "2021年にTwilioを介して発信・受信された通話数"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

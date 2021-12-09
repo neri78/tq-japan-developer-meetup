@@ -1,0 +1,14 @@
+{
+  "title": "始まりの日 - Japan Ver.",
+  "description": "Twilio Japanのオフィス開設を発表した日はいつでしょうか？",
+  "validation_fields": [
+    {
+      "name": "birthday",
+      "type": "date",
+      "label": "日付を入力してください:"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

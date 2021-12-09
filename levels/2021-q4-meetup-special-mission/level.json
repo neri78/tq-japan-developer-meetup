@@ -1,0 +1,23 @@
+{
+  "title": "Twilioトリビア",
+  "description": "Twilioに関するトリビアに答えて君もAPI戦士（非公式）を目指そう！",
+  "questTitle": "Twilio Trivia World",
+  "questDescription": "Twilio Trivia World",
+  "navMap": {
+    "x": 10,
+    "y": 80,
+    "sprite": "nav_map/example_planet.png"
+  },
+  "is_mission": true,
+  "priority": 1,
+  "backgroundMusic": "hackertheme_104771b",
+  "mission_icon": "twilio-trivia/twili-o.png",
+  "backgroundEffect": {
+    "key": "vr",
+    "options": {}
+  },
+  "flavorTextOverrides": {
+    "bookshelf": "There's nothing like a good book."
+  },
+  "objectives": ["twilio_birthday", "cake_or_pie", "japan_birthday","jeffiel_vest","twilio_birthday", "twilio_champions", "twilio_origin", "twilio_original_anniversay", "twilio_phone_calls", "special_chest"]
+}

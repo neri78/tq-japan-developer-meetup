@@ -1,0 +1,15 @@
+{
+  "title": "ケーキ or パイ",
+  "description": "ケーキとパイ、どちらを推しますか？",
+  "validation_fields": [
+    {
+      "name": "team",
+      "type": "text",
+      "placeholder": "解答を記入してください",
+      "label": "Twilio Japanのデベロッパーエバンジェリストはどちらの派閥でしょうか？カタカナで入力してください。"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

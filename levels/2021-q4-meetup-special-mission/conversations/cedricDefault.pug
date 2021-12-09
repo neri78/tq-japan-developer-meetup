@@ -1,0 +1,21 @@
+conversation(display_name="Cedric")
+  case lastResponse
+    when "what_to_do_next"
+      statement#next
+
+    default
+      statement#default
+      responses
+        response#what_to_do_next.
+          この後はどうしたらいいんだろう？
+
+  statements
+    statement#default
+      text.
+        助けてくれてありがとうございます。あなたこそ真の#[span.highlight API戦士（非公式）]ですね!
+    statement#next
+      text.
+        この出口からFog Owlに戻り、ぜひ、ほかのミッションや日本語版にも挑戦してください!
+    statement#final
+      text.
+        この出口からFog Owlに戻り、ぜひ、ほかのミッションや日本語版にも挑戦してください!

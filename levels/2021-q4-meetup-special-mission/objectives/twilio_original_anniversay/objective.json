@@ -1,0 +1,15 @@
+{
+  "title": "Twilioの特別休日とは",
+  "description": "Twilioはとある日を祝うために毎年、特別休日を3月末、4月頭に設定しています。何を祝っているのでしょうか。<strong>Objectiveタブに記載されている選択肢</strong>A、B、Cのどちらかを入力フィールドに記入してください。",
+  "validation_fields": [
+    {
+      "name": "holiday",
+      "type": "text",
+      "placeholder": "A、B、Cのどちらかを入力してください",
+      "label": "Twilioの特別休日:"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}
